@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+##fileDate=20231109
+##source=manual_conversion_from_hal
+##reference=sep_chr_1.fa
+##contig=<ID=hap_1_id1,length=20000,species="dummy">
+##contig=<ID=hap_2_id1,length=20000,species="dummy">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
